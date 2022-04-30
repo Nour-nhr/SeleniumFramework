@@ -1,0 +1,16 @@
+tests\TestBase2.class
+data\LoadProperties.class
+tests\AddProductToCompareTest.class
+steps\E2ETests.class
+data\ExcelReader.class
+data\JsonDataReader.class
+tests\MySiteTest.class
+tests\SearchProductUsingAutoSuggestTest.class
+utilities\Helper.class
+tests\GuestCheckoutProductFromCartTest.class
+tests\AddProductToWishListTest.class
+tests\AddProductToShoppingCartTest.class
+tests\ErabiaTest.class
+tests\SearchProductTest.class
+tests\TestBase.class
+runner\TestRunner.class

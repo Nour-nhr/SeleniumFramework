@@ -1,0 +1,17 @@
+pages\ShoppingCartPage.class
+pages\MySiteUserRegistrationPage.class
+pages\ProductDetailsPage.class
+pages\EmailPage.class
+pages\LoginPage.class
+pages\ContactUsPage.class
+pages\ErabiaHomePage.class
+pages\ProductReviewPage.class
+pages\ComparePage.class
+pages\ErabiaUserRegistrationPage.class
+pages\SearchPage.class
+pages\CheckoutPage.class
+pages\PageBase.class
+pages\MySiteHomePage.class
+pages\OrderDetailsPage.class
+pages\WishlistPage.class
+pages\MyAccountPage.class
